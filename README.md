@@ -5,6 +5,9 @@ Tutorial: https://www.youtube.com/watch?v=oPAFp1J4Kdw&list=PLjRcsbTWNwYeeBmtfm9X
 ## Instalacion
 No te olvides de ejecutar el comando $npm install cuando descarges el proyecto :)
 
-### Librerias
+## Librerias
 Three.js
 Styled-Components
+
+## Preview 
+![Rings Cover](public/hqdefault.jpg)
